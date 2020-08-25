@@ -105,16 +105,16 @@
       Tags = @('Ephesoft','Transact','BatchClass','Batch')
 
       # A URL to the license for this module.
-      LicenseUri = 'https://github.com/Ephesoft-Labs/Transact.DSC.PowerShell/blob/master/LICENSE.md'
+      LicenseUri = 'https://github.com/Ephesoft-Labs/Transact.PowerShell/blob/master/LICENSE.md'
 
       # A URL to the main website for this project.
-      ProjectUri = 'https://github.com/Ephesoft-Labs/Transact.DSC.PowerShell'
+      ProjectUri = 'https://github.com/Ephesoft-Labs/Transact.PowerShell'
 
       # A URL to an icon representing this module.
       # IconUri = ''
 
       # ReleaseNotes of this module
-      ReleaseNotes = 'https://github.com/Ephesoft-Labs/Transact.DSC.PowerShell'
+      ReleaseNotes = 'https://github.com/Ephesoft-Labs/Transact.PowerShell'
 
       # Modules that are required but must be installed externally
       #ExternalModuleDependencies = @()
