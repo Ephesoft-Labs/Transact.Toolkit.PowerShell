@@ -5,6 +5,14 @@ Version changes are logged here using semantic versioning (https://semver.org/)
 *These will be removed in the next major release*
  - None
 
+0.1.2
+-----
+ - Fix error in Submit-TransactBatch help
+
+0.1.1
+-----
+ - Fix bug with XML temp file on Import-TransactBatchClass
+
 0.1.0
 -----
  - Initial Commit
