@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ImportBatchClassOptions>
+  <RolesImported>false</RolesImported>
+  <EmailAccounts>false</EmailAccounts>
+  <UseSource>false</UseSource>
+  <Name>MyBatchClass</Name>
+  <Description>MyBatchClass</Description>
+  <Priority>1</Priority>
+  <UseExisting>false</UseExisting>
+  <UncFolder>C:\Ephesoft\SharedFolders</UncFolder>
+  <UseKey>false</UseKey>
+  <BatchClassKey>NONE</BatchClassKey>
+  <EncryptionAlgorithm>NONE</EncryptionAlgorithm>
+  <importWithLearnFiles>true</importWithLearnFiles>
+  <importConnections>true</importConnections>
+  <CmisPlugin>false</CmisPlugin>
+  <cmisPluginProperties>false</cmisPluginProperties>
+  <cmisMappings>false</cmisMappings>
+  <BatchClassDefinition>
+    <Scripts>
+      <Script>
+        <FileName>ScriptDocumentAssembler.java</FileName>
+        <Selected>true</Selected>
+      </Script>
+      <Script>
+        <FileName>ScriptPageProcessing.java</FileName>
+        <Selected>false</Selected>
+      </Script>
+    </Scripts>
+    <Folders>
+      <Folder>
+        <FileName>image-classification-sample</FileName>
+        <Selected>true</Selected>
+      </Folder>
+      <Folder>
+        <FileName>lucene-classification-sample</FileName>
+        <Selected>false</Selected>
+      </Folder>
+    </Folders>
+    <BatchClassModules>
+      <BatchClassModule>
+        <ModuleName />
+        <PluginConfiguration>true</PluginConfiguration>
+      </BatchClassModule>
+    </BatchClassModules>
+  </BatchClassDefinition>
+</ImportBatchClassOptions>
