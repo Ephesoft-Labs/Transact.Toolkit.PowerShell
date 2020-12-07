@@ -29,18 +29,23 @@ not granted by this Agreement in said Ancillary Source Code.
 
 ## 4. The Restrictions
 
-1. You *MUST* be one of the following:
-    - An Ephesoft Client with an active License Agreement for Ephesoft Transact and/or another Ephesoft product.
-    - Be a Partner of Ephesoft with an active Partner Agreement, be in good standing, and using the Ancillary Source Code in
+<ol type="a">
+<li>You *MUST* be one of the following:
+    <ol type="i">
+    <li>An Ephesoft Client with an active License Agreement for Ephesoft Transact and/or another Ephesoft product.</li>
+    <li>Be a Partner of Ephesoft with an active Partner Agreement, be in good standing, and using the Ancillary Source Code in
        the normal delivery of services to a client with an active License agreement for Ephesoft Transact
-       and/or another Ephesoft product.
-2. When using the Ancillary Source Code you must use it in a manner that complies with the applicable laws in the
-    jurisdiction(s) in which you use the Software.
-3. You may not sell, resell, rent, lease or exchange the Ancillary Source Code for anything of value.
-4. You may not redistribute the Ancillary Source Code unless you have a current Partner Agreement with Ephesoft and
-    are in good standing.
-5. If you are a Partner and wish to redistribute this Ancillary Source Code, you must include this the terms and conditions of this Agreement with your client's agreement.
-6. You may not remove or alter any proprietary notices or marks in the Ancillary Source Code.
+        and/or another Ephesoft product.</li>
+    </ol>
+</li>
+<li>When using the Ancillary Source Code you must use it in a manner that complies with the applicable laws in the
+    jurisdiction(s) in which you use the Software.</li>
+<li>You may not sell, resell, rent, lease or exchange the Ancillary Source Code for anything of value.</li>
+<li>You may not redistribute the Ancillary Source Code unless you have a current Partner Agreement with Ephesoft and
+    are in good standing.</li>
+<li>If you are a Partner and wish to redistribute this Ancillary Source Code, you must include the terms and conditions of this Agreement with your client's agreement.</li>
+<li>You may not remove or alter any proprietary notices or marks in the Ancillary Source Code.</li>
+</ol>
 
 ## 5. Open-Source Notices
 
@@ -108,7 +113,7 @@ Ephesoft will have no liability for any claim based upon:
     <li>use, operation or combination of the applicable Software with non-Ephesoft programs, data, equipment or documentation if such infringement would have been avoided but for such use, operation or combination;</li>
     <li>Ephesoft’s compliance with designs, specifications or instructions provided by User where those designs, specifications or instructions cause the infringement;</li> 
     <li>use by User after notice by Ephesoft to discontinue use of all or a portion of the Software; or</li>
-    <li>third- party open-source software.</li>
+    <li>third-party open-source software.</li>
 </ol>
 
 ## 11. General
