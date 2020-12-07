@@ -91,29 +91,34 @@ resulting from Ephesoft’s gross negligence or intentional conduct.
 
 ## 9. Term and Termination
 
-a.	This Agreement shall continue until terminated in accordance with this Section 9.
-b.	Upon a breach of any provision of this Agreement by Licensee, Ephesoft may immediately terminate this Agreement.
-c.	Ephesoft may terminate this Agreement for convenience and in respect of itself only at any time by giving sixty (60) days prior written notice to Licensee.
-d.	The provisions of this Agreement that are intended to survive shall continue in full force after termination of this Agreement. 
+<ol type="a">
+    <li>This Agreement shall continue until terminated in accordance with this Section 9.</li>
+    <li>Upon a breach of any provision of this Agreement by Licensee, Ephesoft may immediately terminate this Agreement.</li>
+    <li>Ephesoft may terminate this Agreement for convenience and in respect of itself only at any time by giving sixty (60) days prior written notice to Licensee.</li>
+    <li>The provisions of this Agreement that are intended to survive shall continue in full force after termination of this Agreement.</li>
+</ol>
 
 ## 10. Exclusions
 
 Ephesoft will have no liability for any claim based upon:
 
-a.	use of non-current versions of the Software when Ephesoft has made newer, non-infringing versions available User;
-b.	altered versions of the Software (unless the specific alteration was made by or for Ephesoft);
-c.	use, operation or combination of the applicable Software with non-Ephesoft programs, data, equipment or documentation if such infringement would have been avoided but for such use, operation or combination;
-d.	Ephesoft’s compliance with designs, specifications or instructions provided by User where those designs, specifications or instructions cause the infringement; 
-e.	use by User after notice by Ephesoft to discontinue use of all or a portion of the Software; or
-f.	third- party open-source software. 
+<ol type="a">
+    <li>use of non-current versions of the Software when Ephesoft has made newer, non-infringing versions available User;</li>
+    <li>altered versions of the Software (unless the specific alteration was made by or for Ephesoft);</li>
+    <li>use, operation or combination of the applicable Software with non-Ephesoft programs, data, equipment or documentation if such infringement would have been avoided but for such use, operation or combination;</li>
+    <li>Ephesoft’s compliance with designs, specifications or instructions provided by User where those designs, specifications or instructions cause the infringement;</li> 
+    <li>use by User after notice by Ephesoft to discontinue use of all or a portion of the Software; or</li>
+    <li>third- party open-source software.</li>
+</ol>
 
 ## 11. General
 
-1. The failure of Ephesoft to exercise or enforce any right or provision of this Agreement shall not constitute a waiver
-    of such right or provision.
-2. This Agreement constitutes the entire agreement between you and Ephesoft, Inc and governs your use of the Ancillary
-    Source Code, superseding any prior versions of the Agreement.
-3. You agree that this Agreement and your use of the Ancillary Source Code are governed under California law and any
-    dispute related to the Ancillary Source Code must be brought in a tribunal of competent jurisdiction located in Orange County, California.
-4. Please send any questions about this Agreement to [support@ephesoft.com](mailto:support@ephesoft.com).
-
+<ol type="a">
+    <li>The failure of Ephesoft to exercise or enforce any right or provision of this Agreement shall not constitute a waiver
+        of such right or provision.</li>
+    <li>This Agreement constitutes the entire agreement between you and Ephesoft, Inc and governs your use of the Ancillary
+        Source Code, superseding any prior versions of the Agreement.</li>
+    <li>You agree that this Agreement and your use of the Ancillary Source Code are governed under California law and any
+    dispute related to the Ancillary Source Code must be brought in a tribunal of competent jurisdiction located in Orange County, California.</li>
+    <li>Please send any questions about this Agreement to support@ephesoft.com.</li>
+</ol>
